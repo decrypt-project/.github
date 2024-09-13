@@ -9,3 +9,16 @@ Please, see our project website at https://de-crypt.org
 The project is funded by the Swedish Research Council
 grant 2018-06074
 DECRYPT - Decryption of historical manuscripts.
+
+# Repositories connected to the decrypt project
+
+# CrypTool2
+
+https://github.com/CrypToolProject/CrypTool-2
+
+# CTTS
+https://github.com/CrypToolProject/CTTS
+
+# Python library for language statistics
+
+https://github.com/CrypToolProject/LanguageStatisticsLibPy

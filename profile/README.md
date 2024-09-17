@@ -12,13 +12,26 @@ DECRYPT - Decryption of historical manuscripts.
 
 # Repositories connected to the decrypt project
 
-# CrypTool2
-
+# CrypTool2 (CT2)
+a desktop tool for breaking historical and modern ciphers
 https://github.com/CrypToolProject/CrypTool-2
 
-# CTTS
+# CrypTool-Online (CT0)
+an online tool for breaking (simpler) historical ciphers
+https://www.cryptool.org/en/cto/
+
+# CrypTool Transcriber and Solver (CTTS)
+a desktop tool for manual transcription
 https://github.com/CrypToolProject/CTTS
 
-# Python library for language statistics
+# TranscriptTool
+a web-based for semi-automatic transcription using AI
+https://github.com/decrypt-project/transcripttool
 
+# Historical Corpora (HistCorp) 
+a collection of historial texts and language models for 17 European languages
+https://www2.lingfil.uu.se/person/pettersson/histcorp/
+
+# Python library for language statistics
+statistical language models for some European historical languages
 https://github.com/CrypToolProject/LanguageStatisticsLibPy

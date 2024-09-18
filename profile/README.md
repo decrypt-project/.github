@@ -28,7 +28,7 @@ a desktop tool for manual transcription
 https://github.com/CrypToolProject/CTTS
 
 # TranscriptTool
-a web-based for semi-automatic transcription using AI
+a web-based tool for semi-automatic transcription using AI
 
 https://github.com/decrypt-project/transcripttool
 

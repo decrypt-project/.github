@@ -46,3 +46,8 @@ https://www2.lingfil.uu.se/person/pettersson/histcorp/
 statistical language models for some European historical languages
 
 https://github.com/CrypToolProject/LanguageStatisticsLibPy
+
+# English Orthography Predictability Analysis 
+a tool for analyzing the predictability of (English) orthography using n-gram models to investigate factors influencing letter prediction accuracy
+
+https://github.com/jhnwnstd/thesis

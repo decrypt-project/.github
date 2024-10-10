@@ -32,6 +32,11 @@ a web-based tool for semi-automatic transcription using AI
 
 https://github.com/decrypt-project/transcripttool
 
+# decode2
+the web interface and API source code - a Linux-Apache-MariaDB-PHP application
+
+https://github.com/decrypt-project/decode2
+
 # Historical Corpora (HistCorp) 
 a collection of historial texts and language models for 17 European languages
 
